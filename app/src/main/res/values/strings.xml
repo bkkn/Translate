@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="title_translate">Translate</string>
+    <string name="title_history">History</string>
+    <string name="title_favorites">Favorites</string>
+
+    <string name="api_key" translatable="false">trnsl.1.1.20170323T083956Z.a11cd4e0063e145c.cb685107a6ef29225d4e809944b0cc4bf7942f53</string>
+
+    <string-array name="languages_list">
+        <item>en-English</item>
+        <item>ru-Russian</item>
+        <item>zh-Chinese</item>
+        <item>ko-Korean</item>
+        <item>la-Latin</item>
+        <item>de-German</item>
+        <item>pl-Polish</item>
+        <item>tr-Turkish</item>
+        <item>uk-Ukrainian</item>
+        <item>fr-French</item>
+        <item>ja-Japanese</item>
+    </string-array>
+
+    <string name="delete_item">Delete the item?</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+
+    <string name="err404">404</string>
+    <string name="err413">413</string>
+    <string name="err422">422</string>
+    <string name="err501">501</string>
+
+    <string name="traffic_limit_overcome">Traffic limit exceeded</string>
+    <string name="text_size_limit_overcome">Too large text</string>
+    <string name="text_translation_impossible">Text can not be translated</string>
+    <string name="unsupported_translation_direction">Unsupported translation direction</string>
+    <string name="connection_error">Connection error</string>
+
+</resources>

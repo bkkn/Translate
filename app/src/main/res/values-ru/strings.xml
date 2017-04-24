@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Переводчик</string>
+    <string name="title_translate">Перевод</string>
+    <string name="title_history">История</string>
+    <string name="title_favorites">Избранное</string>
+
+    <string-array name="languages_list">
+        <item>en-Английский</item>
+        <item>ru-Русский</item>
+        <item>zh-Китайский</item>
+        <item>ko-Корейский</item>
+        <item>la-Латынь</item>
+        <item>de-Немецкий</item>
+        <item>pl-Польский</item>
+        <item>tr-Турецкий</item>
+        <item>uk-Украинский</item>
+        <item>fr-Французский</item>
+        <item>ja-Японский</item>
+    </string-array>
+
+    <string name="delete_item">Удалить эту запись?</string>
+    <string name="added_to_favorites">Добавлено в Избранное</string>
+
+    <string name="err404">404</string>
+    <string name="err413">413</string>
+    <string name="err422">422</string>
+    <string name="err501">501</string>
+
+    <string name="traffic_limit_overcome">Превышено суточное ограничение на объем переведенного текста</string>
+    <string name="text_size_limit_overcome">Превышен максимально допустимый размер текста</string>
+    <string name="text_translation_impossible">Текст не может быть переведен</string>
+    <string name="unsupported_translation_direction">Заданное направление перевода не поддерживается</string>
+    <string name="connection_error">Ошибка соединения</string>
+
+</resources>
