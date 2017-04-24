@@ -20,7 +20,7 @@
             android:textSize="20sp" />
 
         <ImageView
-            android:id="@+id/zImage"
+            android:id="@+id/clear_image"
             android:layout_width="30dp"
             android:layout_height="30dp"
             android:layout_marginEnd="10dp"
@@ -61,7 +61,7 @@
             android:inputType="textMultiLine"
             android:lines="5"
             android:textCursorDrawable="@null"
-            android:hint="Введите текст..."
+            android:hint="@string/input_text"
             android:layout_marginTop="10dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"

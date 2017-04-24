@@ -18,6 +18,7 @@
         <item>ja-Японский</item>
     </string-array>
 
+    <string name="input_text">Введите текст</string>
     <string name="delete_item">Удалить эту запись?</string>
     <string name="added_to_favorites">Добавлено в Избранное</string>
 

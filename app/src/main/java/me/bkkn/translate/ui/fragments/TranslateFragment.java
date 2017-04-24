@@ -111,7 +111,7 @@ public class TranslateFragment extends Fragment {
 
         });
 
-        imageView = (ImageView) translView.findViewById(R.id.zImage);
+        imageView = (ImageView) translView.findViewById(R.id.clear_image);
         imageView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

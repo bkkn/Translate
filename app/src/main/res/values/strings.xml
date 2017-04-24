@@ -20,6 +20,8 @@
         <item>ja-Japanese</item>
     </string-array>
 
+
+    <string name="input_text">Input something here..</string>
     <string name="delete_item">Delete the item?</string>
     <string name="added_to_favorites">Added to Favorites</string>
 
